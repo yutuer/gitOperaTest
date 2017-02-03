@@ -3,9 +3,9 @@ package arrayTest;
 
 public class A {
 	public static void main(String[] args) {
-//		Object lock = new Object();
-//		final Thread now = Thread.currentThread();
-//
+		Object lock = new Object();
+		final Thread now = Thread.currentThread();
+
 //		Thread t = new Thread() {
 			
 //			@Override
