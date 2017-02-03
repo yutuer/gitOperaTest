@@ -19,6 +19,6 @@ public class A {
 //			}
 //		};
 //		t.start();
-//		LockSupport.park(lock);
+		LockSupport.park(lock);
 	}
 }
